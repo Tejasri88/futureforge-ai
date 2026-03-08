@@ -1,0 +1,16 @@
+project_id = "wxogtbzjdiuchtrkxbhy"
+
+[functions.ai-mentor]
+verify_jwt = false
+
+[functions.interview-simulator]
+verify_jwt = false
+
+[functions.career-roadmap]
+verify_jwt = false
+
+[functions.skill-gap-analyzer]
+verify_jwt = false
+
+[functions.career-advisor]
+verify_jwt = false
